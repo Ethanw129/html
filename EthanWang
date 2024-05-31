@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ethan</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+ <header><h1>Ethan The Best</h1></header>
+  <nav><a href="index.html" class="button">Home</a>
+   <a href="page one lol.html"class="button">Page Two</a>
+   <a href="page two lol.html"class="button">Page Three</a></nav>
+  <Main><section><article><p>Sed ac malesuada libero, a dictum sem. Sed tincidunt nisi pellentesque, fermentum risus tempor, hendrerit mi. Curabitur vel nisi ut est efficitur semper nec eget dolor. Mauris id augue vestibulum, tempus nibh non, tristique metus. Aenean eget purus in mauris pretium luctus sed in lacus. Nulla ac nibh lacinia, imperdiet quam eget, eleifend mi. Duis in viverra urna. Donec lobortis magna at eros malesuada, in volutpat erat faucibus. Pellentesque consectetur lobortis semper. Praesent in tempus turpis. Etiam vel magna quis ante rutrum suscipit. Sed viverra lobortis magna feugiat accumsan. Maecenas vel eros pharetra, cursus nisi sed, interdum dolor. Sed a quam sem. Aenean lobortis felis id rhoncus convallis. Nullam molestie aliquet magna, ac ultrices odio rhoncus in.
+
+</p>
+
+<p>Suspendisse hendrerit venenatis tortor nec vehicula. Suspendisse sed blandit massa, sit amet rhoncus velit. Vestibulum laoreet tempor porta. Integer maximus porta quam non fringilla. Ut tempor et justo sit amet porta. Donec sem erat, rhoncus vitae libero eget, fermentum eleifend dui. Sed sit amet fringilla felis. Curabitur nisl nisl, tincidunt at erat ac, rutrum posuere sapien. Etiam mollis, tortor et hendrerit rhoncus, magna nunc bibendum nulla, ac ultrices dolor lectus quis purus. Pellentesque faucibus neque efficitur, facilisis tellus vel, varius odio.
+
+</p>
+
+</article><article><p>Praesent facilisis suscipit consectetur. Pellentesque leo purus, tristique at enim a, dapibus elementum purus. Nulla vel mauris id ipsum feugiat dictum. Curabitur id tempus tellus. Sed viverra dolor eget ultricies lobortis. Pellentesque id venenatis lacus, quis tincidunt lectus. Proin vestibulum odio mi, sed egestas felis aliquam sed. Morbi lobortis maximus eleifend. Suspendisse tempor, neque vitae pretium sagittis, tellus libero pretium neque, vulputate consectetur diam dui vel massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas lobortis lectus odio, quis faucibus libero porttitor eu. Phasellus varius gravida est, vitae gravida massa porttitor non. Donec euismod risus at ullamcorper hendrerit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam placerat, neque a ornare sollicitudin, mauris turpis consequat metus, eu semper augue metus at ligula.
+
+</p>
+
+<p>Donec rutrum, magna nec vestibulum posuere, turpis mauris sagittis nulla, vitae molestie tellus erat iaculis tortor. Fusce quis elit in arcu tincidunt ultrices. Nullam cursus velit vel quam faucibus lacinia. Nullam neque orci, varius sed ex venenatis, dictum facilisis velit. Maecenas imperdiet ligula vel placerat accumsan. Nullam viverra mi eget erat tincidunt viverra. Ut feugiat aliquam ex, <iframe width="560" height="315" src="https://www.youtube.com/embed/gp84JqrwW-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>id semper justo facilisis a. Donec vitae lorem nunc. Quisque consequat metus neque, id dictum tellus efficitur sit amet. Phasellus viverra, elit nec placerat aliquam, massa nulla imperdiet lorem, at ornare quam quam et dui. Integer ac tincidunt diam. Proin vulputate risus at elit eleifend, id rhoncus ante elementum. Sed auctor leo et maximus dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet euismod eros.</p></article></section><aside><article><p>Praesent vestibulum, dolor quis posuere egestas, massa diam efficitur nisi, vel rhoncus lorem massa a nisi. Duis tincidunt turpis ante, non lobortis nisi ornare sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus pretium, dui hendrerit vehicula feugiat, tellus dui auctor magna, a luctus nisi ipsum ac metus. Duis vehicula varius elit at ornare. Donec interdum vel augue id suscipit. Sed malesuada eros id est sagittis, quis tincidunt lacus rutrum. Pellentesque pretium id ipsum vitae maximus. Quisque laoreet ante sagittis quam ultricies venenatis. Praesent metus lacus, eleifend eget ultrices ut, posuere at nunc. Quisque dapibus mi ex, a volutpat mi pulvinar id. Aenean elementum tellus at dapibus fringilla. Phasellus id cursus nisl, ut efficitur lorem.
+
+</p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/vPGeG6EGpbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wkEoaJsiABo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <footer></footer>
+</body>
+
+</html>
